@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  helm-zabbix:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2020-06-28T12:43:40.240448068-03:00"
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
+    digest: 6593f40e202fba64b0248f6ca89e94334ea1295c316fd161144c8ebec89f5055
+    home: https://www.zabbix.com/
+    icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
+    keywords:
+    - zabbix
+    - monitoring
+    - metics
+    maintainers:
+    - name: AyadiAmen
+    - name: alexnuttinck
+    - name: claudemir
+    name: helm-zabbix
+    urls:
+    - https://github.com/claudm/helm-chart.git/helm-zabbix-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-28T12:43:40.23951071-03:00"
